@@ -1,0 +1,48 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: #0b3d91;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 20px;
+}
+
+.index-card, .stock-card {
+  background-color: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.up {
+  color: green;
+}
+
+.down {
+  color: red;
+}
+
+footer {
+  background-color: #0b3d91;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
